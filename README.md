@@ -1,1 +1,46 @@
 # PyBer_Analysis
+
+## Analysis of Ride-Sharing Data by City Type
+
+**Purpose & Overview**:
+
+The purpose of this project is to analyze PyBer ride-sharing data to gain actionable intelligence and present related visuals to decision-makers at the company, specifically my client V. Isualize, that she and others may make informed business decisions.
+The analysis groups the data into 3 cohorts, based on city-type: Urban, Suburban, and Rural, and provides relevant statistics on each cohort, by city-type: total number of rides, total number of drivers, total fares charged/collected, the average fare per ride and per driver,  
+
+analyzing the dataset as a whole would osbcure much of the 
+
+## HEADING
+
+
+
+**Election Results**
+
+• Total Votes: 369,711
+
+**County Votes**
+
+• Jefferson: 10.5% (38,855)
+
+• Denver: 82.8% (306,055)
+
+• Arapahoe: 6.7% (24,801)
+
+
+**Largest County Turnout** 
+
+Denver
+
+**Election Results by Candidate**
+
+• Charles Casper Stockham: 23.0% (85,213)
+
+• Diana DeGette: 73.8% (272,892)
+
+• Raymon Anthony Doane: 3.1% (11,606)
+
+**Election Winner Statistics**
+
+
+## SUMMARY
+
+
