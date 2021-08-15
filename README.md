@@ -37,6 +37,7 @@ While informative, the summary table does not display any major surprises.  The 
 
 
 
+
 ## Summary, Data Limitations & Recommendations
 
 As we only have date-data for 4 months of 2019, we cannot conduct any year-over-year or even quarter-over-quarter data analysis, which would inform what the growth rates for total number of drivers and rides is in each city-type, and then assess that growth vs. the amount of money PyBer has spent building out its business in different city-types, to determine what the best investment for the given dollar is. 
