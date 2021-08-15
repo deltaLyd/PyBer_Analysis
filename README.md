@@ -33,22 +33,17 @@ While informative, the summary table does not display any major surprises.  The 
 • Rural cities also have the highest average fare per driver, followed by Suburban, and then Urban.
     While this may make Rural areas look the most attractive for being a driver, there are very few total rides, so the drivers can only earn a large fare on a small volume of         rides, relative to other city types.
     
+This data can also be viewed graphically, from the January through April time frame.  While there is fluctuation in the number of rides for a given week, all 3 city types stay in roughly the same band of the graph.  There is strong growth in Urban and Suburban Total Fares over the time period, and Rural is largely flat.
+    
 ![PyBer_fare_summary.png](https://github.com/deltaLyd/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png)
-
-
-
 
 ## Summary, Data Limitations & Recommendations
 
-As we only have date-data for 4 months of 2019, we cannot conduct any year-over-year or even quarter-over-quarter data analysis, which would inform what the growth rates for total number of drivers and rides is in each city-type, and then assess that growth vs. the amount of money PyBer has spent building out its business in different city-types, to determine what the best investment for the given dollar is. 
-Furthermore, the January through April timeframe is mostly winter months, and having this narrow view does not allow me to analyze how much seasonality may effect the total number of rides and the other related PyBer ride statistics.   
+Overall, this analysis is straightforward.  With that in mind, I have the following 3 recommendations for my client, V.  Isualize, as she considers addressing disparities between the city types:
 
-analyzing the dataset as a whole would osbcure much of the information that exists because of the different cohort types.  
-The given city-type is the independent variable, and as city-types are determined by population density, the city-type determines the number of total drivers, which limits the number of total rides, and through supply and demand, determines what the total fares collected are, resulting in different average fares per Ride and Driver for the 3 cohorts.
+1) I suggest thinking about the three city types as three disctinct business environments, and understanding that there are factors which will not allow for a one-size-fits-all approach.  If the goal was to simply achieve the same average rate per ride, there would need to be many more drivers hired in Rural and Suburban cities to lower the price to that of Urban cities.  If that was done, however, the average fare per driver would also decrease in these areas, and it may reach a point where drivers no longer find the rate high enough to justify driving, leading to driver attrition that, all else equal, will limit supply and again push up prices.
 
-## HEADING
+2) PyBer should provide me with a larger dataset, or--if this is the first months of operation, purely focus on growth to capture market share, as there is clearly strong demand for the service being offered, and good rates are being earned in each city cohort. As I was only provided date-data for 4 months of 2019, I cannot conduct any year-over-year or even quarter-over-quarter data analysis, which would inform what the growth rates for total number of drivers and rides is in each city-type, and then assess that growth vs. the amount of money PyBer has spent building out its business in different city-types, to determine what the best investment for the given dollar is. 
+Furthermore, the January through April timeframe is mostly winter months, and having this narrow view does not allow me to analyze how much seasonality may effect the total number of rides and the other related PyBer ride statistics. 
 
-
-## SUMMARY
-
-
+3) Similar to competitor Uber, I suggest that PyBer apply pricing multipliers based on demand-surges, both to incentivize more drivers to accept rides and to earn greater fees for the company by capitalizing on short-term mismatches of supply and demand.  Rather than trying to flatten disparities between dissimilar markets, the focus should be on growing the total ride volume capacity by expanding the driver volume in each respective market, while capitalizing on demand mis-matches to earn additional revenues at peak ride-demand times.  The key metric that V. Isualize should focus on managing is the driver volume in each market relative to ride-demand, to balance achieving profitability with capturing market share.
