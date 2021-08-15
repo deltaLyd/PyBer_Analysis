@@ -18,12 +18,20 @@ This table, created as a summary DataFrame during the analysis, clearly displays
 
 While informative, the summary table does not display any major surprises.  The data output is logical based on the population density of different city types and the mechanics of supply and demand for a service in the economy:
 
-    • Urban cities have the most drivers, followed by Suburban, than Rural.
-             While this is not a guarantee, it is mathematically unlikely to impossible for a rural city to field 2,405 drivers to match the count of Urban city drivers, as many                small towns (rural cities) have populations that are smaller than 2,405 people.
+• Urban cities have the most drivers, followed by Suburban, than Rural.
+    While this is not a guarantee, it is mathematically unlikely to impossible for a rural city to field 2,405 drivers to match the count of Urban city drivers, as many               small towns (rural cities) have populations that are smaller than 2,405 people.
     
-    •   Urban cities have the most rides, followed by Suburban, than Rural. 
-             Again, this is not guaranteed to be the case, but the average Suburban and Rural drivers would have to complete significantly more rides than the average Urban driver              to equal or exceed the total rides for the largest memeber of the city-type cohort.
+• Urban cities have the most rides, followed by Suburban, than Rural. 
+    Again, this is not guaranteed to be the case, but the average Suburban and Rural drivers would have to complete significantly more rides than the average Urban driver             to equal or exceed the total rides for the largest memeber of the city-type cohort.
         
+• Urban cities have the most greatest total fares collected, followed by Suburban, than Rural.
+    Though the average fare per ride in Urban cities is lower than Rural or Suburban, the volume of rides leads to the greatest total fares collection.
+    
+• Rural cities have the highest average fare per ride, followed by Suburban, and then Urban.
+    This makes sense, as the lower supply of drivers should push up the price for a ride to meet demand.
+
+• Rural cities also have the highest average fare per driver, followed by Suburban, and then Urban.
+    While this may make Rural areas look the most attractive for being a driver, there are very few total rides, so the drivers can only earn a large fare on a small volume of         rides, relative to other city types.
 
 
 ## Summary, Data Limitations & Recommendations
