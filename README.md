@@ -32,6 +32,8 @@ While informative, the summary table does not display any major surprises.  The 
 
 • Rural cities also have the highest average fare per driver, followed by Suburban, and then Urban.
     While this may make Rural areas look the most attractive for being a driver, there are very few total rides, so the drivers can only earn a large fare on a small volume of         rides, relative to other city types.
+    
+![PyBer_fare_summary.png](https://github.com/deltaLyd/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png)
 
 
 ## Summary, Data Limitations & Recommendations
