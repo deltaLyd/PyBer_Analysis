@@ -8,7 +8,7 @@ The purpose of this project is to analyze PyBer ride-sharing data to gain action
 The analysis groups the data into 3 cohorts, based on city-type: Urban, Suburban, and Rural, and provides relevant statistics on each cohort, by city-type: total number of rides, total number of drivers, total fares charged/collected, the average fare per ride and per driver, and the total fare by city type over the 4-month time-span January through April.
 My client is interested in understanding and addressing any disparities that exist in the ride-sharing data, which these statistics inform.
 
-###Results
+### Results
 
 **Disparities Between City Types**
 
