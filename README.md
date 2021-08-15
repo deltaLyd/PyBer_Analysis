@@ -11,7 +11,8 @@ My client is interested in understanding and addressing any disparities that exi
 ## Results
 
 **Disparities Between City Types**
-![image](https://user-images.githubusercontent.com/86527276/129489658-babe5bd7-67db-4aa1-8e72-2dc9f425ea46.png)
+
+![Total Rides DataFrame.PNG](https://github.com/deltaLyd/PyBer_Analysis/blob/main/Resources/Total%20Rides%20DataFrame.PNG)
 
 
 
